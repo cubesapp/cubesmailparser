@@ -19,11 +19,7 @@
     "test": "nodeunit test/"
   },
   "main": "./lib/mailparser",
-  "licenses": [
-    {
-      "type": "MIT",
-    }
-  ],
+  "license": "MIT",
   "dependencies": {
     "mimelib": ">=0.2.17",
     "encoding": ">=0.1.4",
@@ -35,10 +31,5 @@
   },
   "engine": {
     "node": ">=0.4"
-  },
-  "keywords": [
-    "e-mail",
-    "mime",
-    "parser"
-  ],
+  }
 }
